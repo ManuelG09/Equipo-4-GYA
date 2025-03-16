@@ -2,6 +2,7 @@
   <h1>PROYECTO ETL - MONITORÍA 3280</h1>
   <p>EVALUACIÓN DEL CUMPLIMIENTO DE LA RUTA MATERNO-PERINATAL EN LAS IPS</p>
   <img src="https://github.com/ManuelG09/Equipo-4-GYA/blob/main/images/etl.png" width="100">
+  <img src="https://github.com/ManuelG09/Equipo-4-GYA/blob/main/images/Gestante.jpg" width ="50">
 </div>
 
 <div align="justify">
