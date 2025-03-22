@@ -45,5 +45,5 @@ Este dataset contiene información detallada sobre la atención en salud de gest
 </div>
 <div align="justify">
   <h3>Stack Tecnológico:</h3> 
-  <img src="https://github.com/ManuelG09/Equipo-4-GYA/blob/main/images/Gestante.jpg" width ="50">
+  <img src="images/Stack.jpg" width ="800">
 </div>
