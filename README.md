@@ -12,7 +12,7 @@
   <p></p>
 </div>
 <div align="justify">
-  <h3>Fuentes de Datos</h3>
+  <h3>Fuentes de Datos:</h3>
   <div>
 <h4>📊 Análisis del Dataset: GESTANTES CORTE 2024</h4>
 <div>🏥 1. Identificación de las Fuentes de Datos</div>
@@ -42,4 +42,8 @@ Este dataset contiene información detallada sobre la atención en salud de gest
 <br>
 <div>📂 2. Estructura del Dataset</div></div>
 <br>&nbsp;&nbsp;📊 Tamaño: 251,878 registros y 52 columnas.
+</div>
+<div align="justify">
+  <h3>Stack Tecnológico:</h3> 
+  <img src="https://github.com/ManuelG09/Equipo-4-GYA/blob/main/images/Gestante.jpg" width ="50">
 </div>
